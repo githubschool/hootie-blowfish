@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to beardofedu's slide!"
 ---
 
 Out here saving lives on mountains and keeping commit messages useful :+1:
