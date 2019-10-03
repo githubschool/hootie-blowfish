@@ -3,7 +3,16 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Spider Cat!
+Spider Cat!
+Does whatever a spider cat does!
+Can he swing from a web?
 
-![dodgetocat](https://octodex.github.com/images/dodgetocat_v2.png)
+No he can't
+He's a cat
+Lookout!
+He is the spider cat!!
+
+![Spidertocat
+](https://octodex.github.com/images/spidertocat.png)
 {: .center}
