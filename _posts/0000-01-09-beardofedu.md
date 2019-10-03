@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to beardofedu's slide!"
 ---
 
-Caption here
+Out here saving lives on mountains and keeping commit messages useful :+1:
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
