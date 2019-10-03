@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+THE SPICE MUST FLOW!
+Duncan Idaho was right all along!
 
-![skatetocat](https://octodex.github.com/images/skatetocat.png)
+![Dunetocat](https://octodex.github.com/images/dunetocat.png)
 {: .center}
