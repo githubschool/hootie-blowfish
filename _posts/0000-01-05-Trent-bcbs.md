@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Bears, beets, Octocats. 
 
-![inflatocat](https://octodex.github.com/images/inflatocat.png)
+![bear-cavalry](https://octodex.github.com/images/bear-cavalry.png)
 {: .center}
