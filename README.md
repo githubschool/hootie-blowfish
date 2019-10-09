@@ -1,8 +1,8 @@
 # GitHub for Developers
 
 - Class Date: Oct 3, 2019
-- Facilitator: @beardofedu - RoKirton & @dumpsterfire & @cschwab9
 
+- Facilitator: @beardofedu - RoKirton & @dumpsterfire & @cschwab9 & @vincebcbssc
 
 
 ## Talk to Us!!
