@@ -1,7 +1,11 @@
 # GitHub for Developers
 
-- Class Date: Oct 3, 2019
-- Facilitator: @beardofedu &MichStod
+
+
+
+Class Date: Oct 3, 2019
+Facilitator: @beardofedu &MichStod
+
 
 ## Talk to Us!!
 
